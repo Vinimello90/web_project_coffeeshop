@@ -6,3 +6,36 @@
   max-width: 1600px;
   margin: 0 auto;
 }
+
+.header {
+  background-color: #fff;
+  background-image: url("../images/background_header.svg");
+  background-position: center;
+  background-size: cover;
+}
+
+.nav__logo {
+  width: 105px;
+  height: 39px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.nav__links {
+  display: flex;
+  position: absolute;
+  right: 80px;
+  top: 30px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav__link {
+  padding-right: 20px;
+}
+
+.nav__link:last-of-type {
+  padding-right: 0;
+}
