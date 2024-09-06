@@ -8,6 +8,7 @@
 }
 
 .header {
+  position: relative;
   background-color: #fff;
   background-image: url("../images/background_header.svg");
   background-position: center;
@@ -67,7 +68,7 @@
   font-family: "Noto Serif", "Time New Roman", "serif";
   font-size: 20px;
   line-height: 30px;
-  padding: 28px 0 0 80px;
+  padding: 28px 80px;
   margin: 0;
 }
 
