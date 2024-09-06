@@ -1,16 +1,4 @@
-## Seção: Receitas
-
-**Título e descrição**
-
-Receitas
-Confira algumas receitas que coletamos para seu lanchinho caseiro:
-
 **texto iframe**
-
-Receita Aeropress
-~5 min
-Receita de Prensa Francesa
-~15 min
 
 ---
 
