@@ -12,12 +12,15 @@
   background-image: url("../images/background_header.svg");
   background-position: center;
   background-size: cover;
+  min-height: 720px;
+  max-height: 800px;
+  height: 100vh;
 }
 
 .nav__logo {
+  position: relative;
   width: 105px;
   height: 39px;
-  position: absolute;
   top: 30px;
   left: 30px;
 }
@@ -27,9 +30,10 @@
   position: absolute;
   right: 80px;
   top: 30px;
-  list-style-type: none;
   padding: 0;
   margin: 0;
+  font-weight: 500;
+  list-style-type: none;
 }
 
 .nav__link {
@@ -38,4 +42,60 @@
 
 .nav__link:last-of-type {
   padding-right: 0;
+}
+
+.header__title {
+  padding-top: 213px;
+  padding-left: 80px;
+  font-size: 58px;
+  font-weight: 500;
+  line-height: 72px;
+  letter-spacing: -1px;
+  max-width: 709px;
+  margin: 0;
+}
+
+.span-accent {
+  display: block;
+  font-family: "Noto Serif", "Time New Roman", "serif";
+  font-style: italic;
+  color: #2f80ed;
+}
+
+.header__description {
+  max-width: 683px;
+  font-family: "Noto Serif", "Time New Roman", "serif";
+  font-size: 20px;
+  line-height: 30px;
+  padding: 28px 0 0 80px;
+  margin: 0;
+}
+
+.header__image {
+  position: absolute;
+  width: 646px;
+  height: 568px;
+  top: 124px;
+  right: 5px;
+}
+
+.header__footer {
+  position: absolute;
+  width: 100%;
+  bottom: 40px;
+  left: 0;
+}
+
+.header__paragraph {
+  color: #838383;
+  margin: 0;
+  padding-left: 80px;
+}
+
+.header__paragraph:last-of-type {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-left: 0;
+  padding-right: 80px;
 }

@@ -1,22 +1,3 @@
-# Cabeçalho
-
-**Links de navegação**
-
-**Título e descrição**
-
-Café especial na biblioteca Triple Peaks
-Esta é nossa zona de estudo! Temos aquele cafezinho para energizar você e vibrações aconchegantes para soltar a criatividade.
-
-**Horário de funcionamento e endereço**
-
-Horários:
-Segunda a sexta (10:00 – 19:00)
-Sábado a domingo (11:00 - 18:00)
-
-200 Success Avenue, a cidade de Triple Peaks
-
----
-
 ## Seção: Receitas
 
 **Título e descrição**
