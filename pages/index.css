@@ -160,13 +160,16 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 0 0 80px;
+  margin: 0;
   text-align: center;
 }
 
 .form {
   max-width: 385px;
-  margin: 0 auto;
+}
+
+.reservation__form {
+  margin: 80px auto 0;
 }
 
 .form__fieldset {
