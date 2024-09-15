@@ -32,7 +32,7 @@ O elemento `<form>` é utilizado para criar o formulário de reserva de mesa. É
 
 <img src="./images/reservation.png" alt="imagem da seção de reserva de mesa">
 
-### Footer
+## Footer
 
 É composto pela logo, links das redes sociais e o copyright, é utilizado `flexbox` para distribuir e posicionar o conteúdo.
 
