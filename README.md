@@ -10,11 +10,12 @@ A página Triple Espresso, é um projeto feito utilizando html e css com o menu 
 - Metologia BEM
 - Flexbox
 - Position
+- Hover
 - Iframe
 
 ## Header
 
-É composto pelo menu de navegação e a descrição do café na biblioteca no cabeçalho, é utilizado `flexbox` e `position` para distribuir e posicionar o conteúdo.
+É composto pelo menu de navegação e a descrição do café na biblioteca no cabeçalho, é utilizado `flexbox`, `position` para distribuir e posicionar o conteúdo e a pseudo-classe `hover` para alterar a cor dos links ao passar o cursor.
 
 <img src="./images/header.png" alt="imagem do header">
 
@@ -34,7 +35,7 @@ O elemento `<form>` é utilizado para criar o formulário de reserva de mesa. É
 
 ## Footer
 
-É composto pela logo, links das redes sociais e o copyright, é utilizado `flexbox` para distribuir e posicionar o conteúdo.
+É composto pela logo, links das redes sociais e o copyright, é utilizado `flexbox` para distribuir e posicionar o conteúdo e a pseudo-classe `hover` para alterar a cor dos links ao passar o cursor.
 
 <img src="./images/footer.png" alt="imagem do footer">
 
