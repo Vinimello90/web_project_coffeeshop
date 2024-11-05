@@ -13,24 +13,9 @@
   height: 100vh;
 }
 
-.header {
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  box-sizing: border-box;
-  background-color: #fff;
-  background-image: url("../images/background_header.svg");
-  background-position: center;
-  background-size: cover;
-  padding: 30px 80px 40px;
-  min-height: 720px;
-  max-height: 800px;
-  height: 100vh;
-}
-
 .header__title {
   font-size: 58px;
-  font-weight: 500;
+  ""font-weight: 500;
   line-height: 72px;
   letter-spacing: -1px;
   max-width: 709px;
