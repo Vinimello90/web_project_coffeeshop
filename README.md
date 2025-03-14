@@ -4,6 +4,8 @@ A página Triple Espresso, é um projeto feito utilizando html e css com o menu 
 
 <p align="center"><img src="./images/full-webpage.png" alt="imagem completa da página" width="200"></p>
 
+**Para ver o projeto em execução <a href="https://vinimello90.github.io/web_project_coffeeshop/">clique aqui</a>.**
+
 ## Tecnologias
 
 - HTML5 semântico
