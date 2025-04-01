@@ -1,23 +1,44 @@
 # Triple Espresso
 
-A página Triple Espresso, é um projeto feito utilizando html e css com o menu de navegação e a descrição do café na biblioteca no header, o conteúdo do main dividido em seções com receitas de café, para reserva de mesa e o footer com informações das redes sociais e o copyright.
+**Triple Espresso** é um projeto de site desenvolvido com **HTML** e **CSS**, criado para um café fictício. A página inclui um menu de navegação e uma descrição sobre o café na biblioteca no header. O conteúdo principal está dividido em seções que apresentam receitas de café, um formulário para reserva de mesa e um rodapé com links para redes sociais e informações de copyright.
 
 <p align="center"><img src="./images/full-webpage.png" alt="imagem completa da página" width="200"></p>
 
-**Para ver o projeto em execução <a href="https://vinimello90.github.io/web_project_coffeeshop/">clique aqui</a>.**
+**Veja o projeto em execução clicando [aqui](https://vinimello90.github.io/web_project_coffeeshop/).**
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - HTML5 semântico
-- Metologia BEM
+- Metodologia BEM
 - Flexbox
-- Position
 - Hover
 - Iframe
 
+## Descrição das Tecnologias e Técnicas Utilizadas
+
+### HTML Semântico
+
+O uso de `HTML semântico` torna o código mais legível e acessível, facilitando a manutenção e melhorando a compreensão do conteúdo.
+
+### Metodologia BEM
+
+A `metodologia BEM` (Bloco, Elemento, Modificador) foi aplicada para organizar as classes CSS, o que facilita a escalabilidade e a manutenção do código.
+
+### Flexbox
+
+A utilização de `Flexbox` garante melhor distribuição do layout e organiza os elementos de forma mais responsiva.
+
+### Hover
+
+A pseudo-classe `:hover` foi aplicada aos links e elementos interativos, proporcionando um feedback visual ao passar o cursor sobre eles.
+
+### Iframe
+
+A tag `iframe` foi utilizada para incorporar vídeos diretamente na página, permitindo que os usuários assistam ao conteúdo sem precisar ser redirecionados para outra página.
+
 ## Header
 
-É composto pelo menu de navegação e a descrição do café na biblioteca no cabeçalho, é utilizado `flexbox`, `position` para distribuir e posicionar o conteúdo e a pseudo-classe `hover` para alterar a cor dos links ao passar o cursor.
+A seção de **header** inclui o menu de navegação e uma breve descrição sobre o café na biblioteca. Utilizamos `flexbox` para distribuir e organizar os elementos de forma responsiva, enquanto a pseudo-classe `hover` altera a cor dos links ao passar o cursor.
 
 <img src="./images/header.png" alt="imagem do header">
 
@@ -25,22 +46,22 @@ A página Triple Espresso, é um projeto feito utilizando html e css com o menu 
 
 ### Seção de Receitas
 
-É utilizado o elemento `iframe` para incorporar os links dos videos explicativos das receitas e serem assistidos na seção sem ser redirecionado para fora da página.
+Na **seção de receitas**, foi utilizado o elemento `iframe` para incorporar vídeos explicativos das receitas de café. Isso permite que os usuários assistam aos vídeos diretamente na página sem precisar ser redirecionados para outra.
 
 <img src="./images/recipes.png" alt="imagem da seção de receitas">
 
 ### Seção de Reserva de Mesa
 
-O elemento `<form>` é utilizado para criar o formulário de reserva de mesa. É utilizado o elemento `<input>`, com diferentes valores do atributo `type` para criar os campos de: nome, número de convidados (com limites mínimo e máximo), data, hora, e-mail e uma caixa de seleção para concordância com os termos. Todos os campos são marcados como obrigatórios usando o atributo `required` e um elemento de botão do tipo `submit` é utilizado para enviar os dados do formulário.
+Para a **seção de reserva de mesa**, criamos um formulário interativo com o elemento `<form>`. Os campos de entrada, como nome, número de convidados (com limites mínimo e máximo), data, hora, e-mail e a caixa de seleção para concordância com os termos, são todos obrigatórios (marcados com o atributo `required`). O formulário é enviado por meio de um botão `submit`.
 
 <img src="./images/reservation.png" alt="imagem da seção de reserva de mesa">
 
 ## Footer
 
-É composto pela logo, links das redes sociais e o copyright, é utilizado `flexbox` para distribuir e posicionar o conteúdo e a pseudo-classe `hover` para alterar a cor dos links ao passar o cursor.
+O **rodapé (footer)** contém a logo do café, links para as redes sociais e informações de copyright. Usamos `flexbox` para organizar os elementos, e a pseudo-classe `hover` altera a cor dos links ao passar o cursor.
 
 <img src="./images/footer.png" alt="imagem do footer">
 
-## Planos de melhoria do projeto
+## Planos de Melhoria
 
-- Seção de avaliações para obter feedback dos usuários e obter criticas construtivas sobre o que pode ser melhorado no café.
+- Adicionar uma seção de **avaliações** para coletar feedback dos usuários e críticas construtivas sobre como o café pode ser aprimorado.
