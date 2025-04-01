@@ -38,7 +38,7 @@ A tag `iframe` foi utilizada para incorporar vídeos diretamente na página, per
 
 ## Header
 
-A seção de **header** inclui o menu de navegação e uma breve descrição sobre o café na biblioteca. Utilizamos `flexbox` para distribuir e organizar os elementos de forma responsiva, enquanto a pseudo-classe `hover` altera a cor dos links ao passar o cursor.
+No **header** inclui o menu de navegação e uma breve descrição sobre o café na biblioteca. Utilizamos `flexbox` para distribuir e organizar os elementos de forma responsiva, enquanto a pseudo-classe `hover` altera a cor dos links ao passar o cursor.
 
 <img src="./images/header.png" alt="imagem do header">
 
