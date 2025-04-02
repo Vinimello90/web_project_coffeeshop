@@ -6,7 +6,7 @@
 
 **Veja o projeto em execução clicando [aqui](https://vinimello90.github.io/web_project_coffeeshop/).**
 
-## Tecnologias Utilizadas
+## Tecnologias e Métodos
 
 - HTML5 semântico
 - Metodologia BEM
